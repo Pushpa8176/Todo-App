@@ -1,0 +1,28 @@
+# Node & dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo & build
+.expo/
+.expo-shared/
+dist/
+web-build/
+build/
+android/app/build/
+ios/build/
+
+# Hide real secret files
+.env
+todo-expo-clerk-supabase/supabaseClient.js
+todo-expo-clerk-supabase/app.config.ts
+
+# Config & cache
+eas.json
+*.tsbuildinfo
+
+# System & logs
+.DS_Store
+Thumbs.db
+*.log
