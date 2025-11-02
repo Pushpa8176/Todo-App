@@ -1,4 +1,0 @@
-# Hide real secret files
-.env
-todo-expo-clerk-supabase/supabaseClient.js
-todo-expo-clerk-supabase/app.config.ts
